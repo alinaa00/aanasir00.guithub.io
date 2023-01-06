@@ -1,0 +1,67 @@
+<html>
+	<head>
+	<title>ABMORE</title>
+
+<link rel = "stylesheet" type = "text/css" href="style.css" />
+  </head>
+  
+  <body>
+  <div id = "container">
+  <div id= "header">
+    <h1>AB & MOR</h1>
+  </div>
+  
+  <div id = "content">
+    
+    
+    <div id = "nav">
+					<h3>Navigation</h3>
+					<ul>
+						<li><a href = "ut.html">Home</a></li>
+						<li><a href = "Pakistan.html">MOR in Pakistan</a></li>
+						<li><a class = "selected" href = " ">MOR Conservation</a></li>
+							<li><a href= "About.html ">About</a></li>
+						<li><a href = "Contact.html">Contact</a></li>
+					</ul>
+      
+    </div>
+    
+    <div id = "main">
+     <h2>Efforts Related to MORs globally</h2>
+
+				  <p> Although MORs fall into the "of least concern" by Internation Union for Conservation of Nature (IUCN), there are regional and national scale efforts being made all over the world to protect and nurture these magnificent birds in particular localities. </p> 
+				  
+		<h3 style = "color: #002924"> Global Giving Org: Conservation of the Natural Bird of India </h3>
+		<img style = "width:45%;height:270px;float:left;padding:10px" src= "india.png">
+		<p style= "padding:10px">Peafowl, the Indian National bird, is protected under Indian Wildlife Act 1972. They are hunted for feathers, fat and meat. The incidents of high mortality in some areas denote poaching. So, the project aims to provide awareness through street theatre/seminar/IEC for local populace. The project also aims to provide counseling for poachers with bank assisted alternate livelihood option for them.</p>
+		<pstyle = "padding:-10px">Through this project, the poachers will be identified and rehabilitated with alternate livelihood options. The villages level 'Peacock Protection Force (PPF)' will help protecting the bird, prevent poaching and discourage peacock habitat land conversion, amongst other initiatives.</p>
+		<p style = "padding:0px">Read more here: <a href="https://www.globalgiving.org/projects/conservation-of-national-bird-of-india/"> GlobalGiving.Org </a> </p>
+		
+		<h4 style = "color: #002924;font-size:+19.5"> Yun Pa Reserve: Conservation of green Peafowl in Vietnam </h4>
+		
+		<img style = "width:40%;height:310px;float:left;padding:10px" src= "viet.jpeg">
+		<p style= "padding:10px">The green peafowl is the galliform species at most immediate risk in Indochina. The species has dramatically declined, or even disappeared, in most of its historical range in recent decades. The overal goal of this project is to make contributions to understanding the status and distribution, as well as to save one of the most endangered bird species in Vietnam. The team includes young conservationists participating in activities ranging from field surveys to conservation education. Project activities will be focused on providing updated information on the status of Green Peafowl in A Yun Pa nature reserve; enhancing capacity in wildlife monitoring and conservation; and reducing pressures, especially hunting activities by local community members to targeted species.</p>
+	
+		<p>Read more here: <a href="https://www.conservationleadershipprogramme.org/project/conservation-green-peafowl-a-yun-pa-nature-reserve-vietnam/"> ConservativeLeadershipProgram.Org </a> </p>
+		
+		<h5 style = "color: #002924;font-size:+19.5">Pakistans Dhodial Pheasantry</h5>
+		
+		<img style = "width:40%;height:310px;float:left;padding:10px" src= "pak.jpeg">
+		<p style= "padding:10px">Through conservation efforts and the promotion of aviculture in Pakistan, Asias largest pheasantry is successfully rearing endangered species of pheasants. Dhodial in Pakistans Khyber Pakhtunkhwa (KP) province has become the centre of international attention for housing Asias largest pheasantry, established four decades ago next to the Karakoram Highway that connects Pakistan with China.In 1980, Islamabad’s Capital Development Authority (CDA) took notice of the threat to the bird and hatched a reintroduction plan with help from the World Pheasants Association (WPA). The WPA sent 90 eggs to Pakistan. So amongst peacocks, several other pheasants are currently being protected in the Dhodial Conservatory. </p>
+	
+		<p style = "margin-bottom: 20px">Read more here: <a href="https://www.thethirdpole.net/en/nature/pakistans-dhodial-pheasantry-a-happy-tale-of-conservation/"> TheThirdPole.Net </a> </p>
+		
+		
+		
+		
+		
+		
+    </div>
+  
+  </div>
+  <div style = "margin-top: 10px" id = "footer">
+    	Copyright &copy; 2023 Ali Ibrahim 
+  </div>
+  </div>
+</body>
+</html>

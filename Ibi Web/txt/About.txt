@@ -1,0 +1,43 @@
+<html>
+	<head>
+	<title>ABMORE</title>
+
+<link rel = "stylesheet" type = "text/css" href="style.css" />
+  </head>
+  
+  <body>
+  <div id = "container">
+  <div id= "header">
+    <h1>AB & MOR</h1>
+  </div>
+  
+  <div id = "content">
+    
+    
+    <div id = "nav">
+					<h3>Navigation</h3>
+					<ul>
+						<li><a href = "ut.html">Home</a></li>
+						<li><a href = "Pakistan.html">MOR in Pakistan</a></li>
+						<li><a  href = "Conservation.html">MOR Conservation</a></li>
+						<li><a class = "selected" href= " ">About</a></li>
+						<li><a href = "Contact.html">Contact</a></li>
+					</ul>
+      
+    </div>
+    
+    <div id = "main">
+     <h2>About</h2>
+     <img style = "width:250px;height:300px" src="ibi.jpeg">
+				  <p> Ali Ibrahim is a MOR enthusiast. He founded his blog at the ripe age of 14 years old compelled by his love for the exquistise creatures. The aim of ABMOR is to showcase the beauty of MORs in a world so disconnected from the magnifcant bounties that nature has to offer us. </p> 
+				  <p>AB's love for MORs was instilled by his grandfather's own passion for the lovely creatures. His grandfather actually owned about four different MORs at a point in time and actually had a rare white beauty as well.</p>
+				  <p style="color:red">Disclaimer: Absolutely no animals (MORs or otherwise) have been harmed in the process of making and maintaining of this blog.</p>
+    </div>
+  
+  </div>
+  <div id = "footer">
+    	Copyright &copy; 2023 Ali Ibrahim 
+  </div>
+  </div>
+</body>
+</html>
